@@ -1,0 +1,14 @@
+Znf/GATA (Znf_hrmn_rcpt, Znf_NHR/GAT)	61
+Homeobox (Homeobox_dom)	58
+bHLH (bHLH_dom, HLH_DNA-bd_sf)	33
+Winged-Helix (WH_DNA-bd_sf, Ets_dom, Fork_head_dom)	21
+HMG (HMG_box_dom, HMG_box_dom_sf)	12
+AT hook (AT_hook_DNA-bd_motif)	11
+Orange (Orange_dom)	11
+bZIP (bZIP, bZIP_Maf, AP-1)	9
+HTH (HTH_Psq)	9
+PAX (PAX_fam, Paired_dom)	9
+
+
+
+

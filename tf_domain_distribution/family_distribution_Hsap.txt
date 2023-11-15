@@ -1,0 +1,32 @@
+Homeobox(Homeobox_dom)	242
+ZnF_NHR/GATA(Znf_hrmn_rcpt/Znf_NHR/GATA)	138
+Wing Helix(WH_DNA-bd_sf)	122
+bHLH(bHLH_dom/HLH_DNA-bd_sf)	111
+High Mobility Group(HMG_box_dom/HMG_box_dom_sf)	62
+bZIP(bZIP/bZIP_BACH/bZIP_Maf/bZIP_sf/PAR_bZIP)	53
+Fork Head(Fork_head_dom/FOXM1/Foxc1/Foxi1)	49
+Myb(SANT/Myb/Myb_dom/MYBL1/MYBL2)	35
+Ets(Ets_dom/Ets_fam/Transform_prot_C-ets/Transform_prot_C-ets-2/ETV3/Elf4/Elf5/Elf3/EHF)	29
+HTH(HTH_Psq/HTH_cenpB_DNA-bd_dom)	46
+T-box(T-box_DNA-bd/T-box_sf/TF_T-box)	18
+AT_hook		17
+Znf_C2H2(Znf_C2H2_type/Znf_C2H2_sf)	17
+ARID(ARID_dom/ARID_sf)	16
+Est_rcpt(Est_rcpt/est-rel_rcp)	15
+Histone_H1/H5_H15	15
+POU(POU_dom/TF_POU_3/POU4-TF1-POU6F2/POU_dom_5/POU4F3)	23
+CUT(CUT_dom)	13
+ELM2(ELM2_dom)	13
+PAX(PAX_fam)	13
+Orange(Orange_dom)	12
+THAP_Znf(THAP_Znf/THAP7/THAP8/THAP1/THAP_Znf_sf)	12
+JmjN	10	
+E2F(E2F_WHTH_DNA-bd_dom/E2F/E2F-dp_heterodimer/E2F4/E2F5/Transcription_factor_E2F26)	10
+FOG(ZF_CCHC_FOG/FOG)	10
+NA-bd_OB_fold(NA-bd_OB_fold)	10
+AP-1	9
+MADSbox(TF_MADSbox_sf)	9
+SAND(SAND_dom)	8
+KRAB(KRAB/aKRAB)	8
+
+
