@@ -1,0 +1,17 @@
+AP2/ERF (AP2/ERF_dom, AP2/ERF_dom_sf, DNA-bd_dom_sf)	157
+bHLH (bHLH_dom/HLH_DNA-bd_sf, bHLH_ZIP_TF, MASH1/Ascl1a-like)	149
+NAC (NAC_dom_sf, NAC_dom)	129
+B3_DNA-bd(B3_DNA-bd, DNA-bd_pseudobarrel_sf, REM_fam, ARF_plant)	90
+Homeobox (Homeobox_dom, HDZip_class_I_plant)	90
+WRKY (WRKY_dom, WRKY_dom_sf, WRKY_plant)	80
+Myb (Myb_dom_plants, Myb_dom, SANT/Myb, Response_reg_B-typ_pln)	79
+MADSbox (TF_MADSbox, TF_MADSbox_sf)	53
+bZIP (bZIP, bZIP46-like)	51
+Znf_Dof (Znf_dof, Dof)	35
+ERF (ERF_plant)	22
+HSF (HSF_fam, HSF_DNA-bd_sf, WH_DNA-bd_sf)	21
+RWP-RK (RWP-RK_dom, NLP)	14
+CBFA_NFYB (CBFA_NFYB_dom, Histone-fold, Transc_fact_NFYB/HAP3)	10
+Homeobox_ZF_HD	10
+NFYA	10
+Znf_LRP1 (Znf_LRP1, SHI)	10
