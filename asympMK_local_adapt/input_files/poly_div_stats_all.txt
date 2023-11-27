@@ -1,0 +1,4 @@
+Species mean(div_syn)  syn_count mean(div_nonsyn) nonsyn_count
+YRI-hsap  0.01612 102315  0.0035  70178
+IB-aratha 0.13728 771265  0.02769 510849
+ZAM-dmel  0.11379 518897  0.01701 223926
